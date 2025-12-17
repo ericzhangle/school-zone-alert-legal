@@ -47,7 +47,7 @@
 ## 7. 联系我们
 如对本隐私政策有疑问，请通过以下方式联系：
 
-- 支持邮箱：ericzhangle@gmail.com
+- 支持邮箱：ericzhangle1986@gmail.com
 - 支持网站：https://ericzhangle.github.io/school-zone-alert-legal/support
 
 
